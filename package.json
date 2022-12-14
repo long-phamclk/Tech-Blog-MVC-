@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog-mvc-",
+  "name": "tech-mvc-blog-1",
   "version": "1.0.0",
   "description": "mvc homework",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/longpham112/Tech-Blog-MVC-.git"
   },
-  "author": "",
+  "author": "long",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/longpham112/Tech-Blog-MVC-/issues"
@@ -26,5 +26,6 @@
     "express-session": "^1.17.3",
     "mysql2": "^2.3.3",
     "sequelize": "^6.26.0"
-  }
+  },
+  "devDependencies": {}
 }
