@@ -46,15 +46,15 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 
-## Screen shots
+## Usage
     ```md
-    ![alt text](assets/images/1.png)
+    ![alt text](./assets/images/1.png)
     ```
      ```md
-    ![alt text](assets/images/2.png)
+    ![alt text](./assets/images/2.png)
     ```
      ```md
-    ![alt text](assets/images/3.png)
+    ![alt text](./assets/images/3.png)
     ```
 
 ## Guide through video
